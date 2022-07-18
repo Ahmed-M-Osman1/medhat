@@ -1,0 +1,1285 @@
+
+
+@media (max-width:360px){
+   /* header responsive */
+    header .header-info h1{
+        color: white;
+        font-size: 32px;
+    }
+    header .header-info p{
+        width: 75%;
+        color: rgb(177, 177, 177);
+        font-size: 14px;
+    }
+    header .header-info a.btn{
+        padding: 5px 16px;
+        font-size: 15px;
+    }
+    header .header-form{
+        margin-top: 40px;
+    }
+   /* /header responsive */
+
+   /* courses responsive */
+    #Courses .courses-holder .row .carousel-info{
+       width:290px;
+    }
+    /* courses responsive */
+
+    /* Programs responsive */
+    #Programs .programs-info h1{
+        font-weight: bold;
+        font-size:35px;
+        width: 300px;
+    }
+    #Programs .programs-info p{
+        font-size:14px;
+        width: 290px;
+        color: rgb(172, 172, 172);
+    }
+    #Programs .programs-info .row .img-holder{
+        margin: 0;
+    }
+    #Programs .img-info{
+        margin-left:0px;
+    }
+    #Programs .img-info h2{
+        font-size:25px;
+    }
+    #Programs .img-info  p{
+        font-size:15px;
+        color: rgb(138, 138, 138);
+        margin: 22px 0;
+    }
+    #Programs .img-info span{
+        display: inline-block;
+        margin: 8px 0;
+        color: var(--maincolor);
+        font-size: 15px;
+    }
+    #Programs .img-info span i{
+        background-color: var(--maincolor);
+        width: 35px;
+        height:35px;
+        border-radius:50%;
+        text-align: center;
+        color: white;
+        line-height: 35px;
+        margin-right: 5px;
+        font-size: 13px;
+    }
+    #Programs .img-info.mm{
+        margin-right:160px;
+    }
+     /* /Programs responsive */
+
+     /* Teachers responsive */
+     #Teachers .techers-word{
+        margin-bottom: 15px;
+        width: 296px;
+    }
+    #Teachers .techers-word p{
+        font-size:14px;
+    }
+    #Teachers .tech-info{
+        width: 325px;
+    }
+     /* /Teachers responsive */
+
+     /* recommend responsive */
+     #recommend .feedback{
+         width: 350px;
+     }
+     #recommend  .feedback p{
+        font-size: 13px;
+        width: 310px;
+        margin-left: 14px;
+    }
+     /* /recommend responsive */
+
+     /* details responsive */
+     #details .container h1{
+        font-weight: bold;
+        font-size:36px;
+        width: 300px;
+        margin-bottom: 70px;
+    } 
+     #details img.bob{
+        width:40%;
+        top:800px;
+        left:-20px;
+        position: absolute;
+        z-index: -1;
+    }
+    #details .container .row2{
+        width: 100px;
+    }
+     /* /details responsive */
+
+     /* contact responsive */
+     #contact p{
+        font-size: 14px;
+        width: 300px;
+    }
+    #contact form{
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+    }
+     /* /contact responsive */
+
+     /* links responsive */
+     .links  p{
+         width: 300px;
+         font-size: 14px;
+     }
+     .links .row2{
+         width:300px;
+     }
+     .links .list ul li{
+         list-style: none;
+     }
+     /* /links responsive */
+}
+@media (max-width:320px){
+   /* header responsive */
+    header .header-info h1{
+        color: white;
+        font-size: 32px;
+    }
+    header .header-info p{
+        width: 75%;
+        color: rgb(177, 177, 177);
+        font-size: 14px;
+    }
+    header .header-info a.btn{
+        padding: 5px 16px;
+        font-size: 15px;
+    }
+    header .header-form{
+        margin-top: 40px;
+        margin-right: 20px;
+        margin-left: 0;
+        padding: 15px;
+    }
+   /* /header responsive */
+
+   /* courses responsive */
+    #Courses h1 {
+        width:275px;
+    }
+    #Courses .courses-holder .row .carousel-info{
+       width:240px;
+    }
+    /* courses responsive */
+
+    /* Programs responsive */
+    #Programs .programs-info h1{
+        font-weight: bold;
+        font-size:35px;
+        width: 255px;
+    }
+    #Programs .programs-info p{
+        font-size:14px;
+        width: 255px;
+        color: rgb(172, 172, 172);
+    }
+    #Programs .row .img-holder img{
+        margin-right:5px;
+        width: 240px;
+    }
+    #Programs .img-info{
+        margin-left:0px;
+    }
+    #Programs .img-info h2{
+        font-size:25px;
+    }
+    #Programs .img-info  p{
+        font-size:15px;
+        width: 250px;
+        color: rgb(138, 138, 138);
+        margin: 12px 0;
+    }
+    #Programs .img-info span{
+        display: inline-block;
+        margin: 8px 0;
+        color: var(--maincolor);
+        font-size: 15px;
+    }
+    #Programs .img-info span i{
+        background-color: var(--maincolor);
+        width: 35px;
+        height:35px;
+        border-radius:50%;
+        text-align: center;
+        color: white;
+        line-height: 35px;
+        margin-right: 5px;
+        font-size: 13px;
+    }
+    #Programs .img-info.mm{
+        margin-right:160px;
+    }
+     /* /Programs responsive */
+
+     /* Teachers responsive */
+     #Teachers .techers-word{
+        margin-bottom: 15px;
+        width: 250px;
+    }
+    #Teachers .techers-word p{
+        font-size:12px;
+    }
+    #Teachers .tech-info{
+        width: 280px;
+    }
+     /* /Teachers responsive */
+
+     /* recommend responsive */
+     #recommend .feedback{
+         width: 280px;
+     }
+     #recommend  .feedback p{
+        font-size: 13px;
+        width: 250px;
+        margin-left: 14px;
+    }
+     /* /recommend responsive */
+
+     /* details responsive */
+     #details .container h1{
+        font-weight: bold;
+        font-size:32px;
+        width: 250px;
+        margin-bottom: 70px;
+    } 
+     #details img.bob{
+        width:40%;
+        top:750px;
+        left:-20px;
+        position: absolute;
+        z-index: -1;
+    }
+    #details .container .detail .row2{
+        width: 250px;
+    }
+    #details .container .detail .row2 .icon1 p{
+        font-size:10px;
+    }
+     /* /details responsive */
+
+     /* contact responsive */
+     #contact p{
+        font-size: 14px;
+        width: 260px;
+    }
+    #contact form{
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+    }
+     /* /contact responsive */
+
+     /* links responsive */
+     .links  p{
+         width: 250px;
+         font-size: 13px;
+     }
+     .links .row2 input{
+         width:170px;
+     }
+     .links .list ul li{
+         list-style: none;
+     }
+     /* /links responsive */
+}
+@media (max-width:375px){
+    /* header responsive */
+     header .header-info h1{
+         color: white;
+         font-size:32px;
+     }
+     header .header-info p{
+         width: 75%;
+         color: rgb(177, 177, 177);
+         font-size:10px;
+     }
+     header .header-info a.btn{
+         padding: 5px 16px;
+         font-size: 15px;
+     }
+     header .header-form{
+         margin-top: 40px;
+         margin-right: 20px;
+         margin-left: 0;
+         padding: 15px;
+     }
+    /* /header responsive */
+ 
+    /* courses responsive */
+     #Courses h1 {
+         width:275px;
+     }
+     #Courses .courses-holder .row .carousel-info{
+        width:100px;
+     }
+     /* courses responsive */
+ 
+     /* Programs responsive */
+     #Programs .programs-info h1{
+         font-weight: bold;
+         font-size:35px;
+         width: 255px;
+     }
+     #Programs .programs-info p{
+         font-size:14px;
+         width: 255px;
+         color: rgb(172, 172, 172);
+     }
+     #Programs .row .img-holder img{
+         margin-right:5px;
+         width: 240px;
+     }
+     #Programs .img-info{
+         margin-left:0px;
+     }
+     #Programs .img-info h2{
+         font-size:25px;
+     }
+     #Programs .img-info  p{
+         font-size:15px;
+         width: 250px;
+         color: rgb(138, 138, 138);
+         margin: 12px 0;
+     }
+     #Programs .img-info span{
+         display: inline-block;
+         margin: 8px 0;
+         color: var(--maincolor);
+         font-size: 15px;
+     }
+     #Programs .img-info span i{
+         background-color: var(--maincolor);
+         width: 35px;
+         height:35px;
+         border-radius:50%;
+         text-align: center;
+         color: white;
+         line-height: 35px;
+         margin-right: 5px;
+         font-size: 13px;
+     }
+     #Programs .img-info.mm{
+         margin-right:160px;
+     }
+      /* /Programs responsive */
+ 
+      /* Teachers responsive */
+      #Teachers .techers-word{
+         margin-bottom: 15px;
+         width: 250px;
+     }
+     #Teachers .techers-word p{
+         font-size:12px;
+     }
+     #Teachers .tech-info{
+         width: 280px;
+     }
+      /* /Teachers responsive */
+ 
+      /* recommend responsive */
+      #recommend .feedback{
+          width: 280px;
+      }
+      #recommend  .feedback p{
+         font-size: 13px;
+         width: 250px;
+         margin-left: 14px;
+     }
+      /* /recommend responsive */
+ 
+      /* details responsive */
+      #details .container h1{
+         font-weight: bold;
+         font-size:32px;
+         width: 250px;
+         margin-bottom: 70px;
+     } 
+      #details img.bob{
+         width:40%;
+         top:750px;
+         left:-20px;
+         position: absolute;
+         z-index: -1;
+     }
+     #details .container .detail .row2{
+         width: 250px;
+     }
+     #details .container .detail .row2 .icon1 p{
+         font-size:10px;
+     }
+      /* /details responsive */
+ 
+      /* contact responsive */
+      #contact p{
+         font-size: 14px;
+         width: 260px;
+     }
+     #contact form{
+         display: flex;
+         flex-direction: column;
+         width: 250px;
+     }
+      /* /contact responsive */
+ 
+      /* links responsive */
+      .links  p{
+          width: 250px;
+          font-size: 13px;
+      }
+      .links .row2 input{
+          width:170px;
+      }
+      .links .list ul li{
+          list-style: none;
+      }
+      /* /links responsive */
+ }
+@media (max-width:375px){
+    /* header responsive */
+
+     header .header-info h1{
+         color: white;
+         font-size:29px;
+     }
+     header .header-info p{
+         width: 75%;
+         color: rgb(177, 177, 177);
+         font-size:13px;
+     }
+     header .header-info a.btn{
+         padding: 5px 16px;
+         font-size: 15px;
+     }
+     header .header-form{
+         margin-top: 40px;
+         margin-right: 20px;
+         margin-left: 0;
+         padding: 15px;
+     }
+    /* /header responsive */
+ 
+    /* courses responsive */
+     #Courses h1 {
+         width:275px;
+     }
+     #Courses .courses-holder .row .carousel-info{
+        width:100px;
+     }
+     /* courses responsive */
+ 
+     /* Programs responsive */
+     #Programs .programs-info h1{
+         font-weight: bold;
+         font-size:35px;
+         width: 255px;
+     }
+     #Programs .programs-info p{
+         font-size:14px;
+         width: 255px;
+         color: rgb(172, 172, 172);
+     }
+     #Programs .row .img-holder img{
+         margin-right:5px;
+         width: 240px;
+     }
+     #Programs .img-info{
+         margin-left:0px;
+     }
+     #Programs .img-info h2{
+         font-size:25px;
+     }
+     #Programs .img-info  p{
+         font-size:15px;
+         width: 250px;
+         color: rgb(138, 138, 138);
+         margin: 12px 0;
+     }
+     #Programs .img-info span{
+         display: inline-block;
+         margin: 8px 0;
+         color: var(--maincolor);
+         font-size: 15px;
+     }
+     #Programs .img-info span i{
+         background-color: var(--maincolor);
+         width: 35px;
+         height:35px;
+         border-radius:50%;
+         text-align: center;
+         color: white;
+         line-height: 35px;
+         margin-right: 5px;
+         font-size: 13px;
+     }
+     #Programs .img-info.mm{
+         margin-right:160px;
+     }
+      /* /Programs responsive */
+ 
+      /* Teachers responsive */
+      #Teachers .techers-word{
+         margin-bottom: 15px;
+         width: 250px;
+     }
+     #Teachers .techers-word p{
+         font-size:12px;
+     }
+     #Teachers .tech-info{
+         width: 100px;
+     }
+      /* /Teachers responsive */
+ 
+      /* recommend responsive */
+      #recommend .feedback{
+          width: 280px;
+      }
+      #recommend  .feedback p{
+         font-size: 13px;
+         width: 250px;
+         margin-left: 14px;
+     }
+      /* /recommend responsive */
+ 
+      /* details responsive */
+      #details .container h1{
+         font-weight: bold;
+         font-size:29px;
+         width: 230px;
+         margin-bottom: 70px;
+     } 
+      #details img.bob{
+         width:40%;
+         top:500px;
+         left:-20px;
+         position: absolute;
+         z-index: -1;
+     }
+     #details .container .detail .row2{
+         width: 250px;
+     }
+     #details .container .detail .row2 .icon1 p{
+         font-size:10px;
+     }
+      /* /details responsive */
+ 
+      /* contact responsive */
+      #contact p{
+         font-size: 14px;
+         width: 260px;
+     }
+     #contact form{
+         display: flex;
+         flex-direction: column;
+         width: 250px;
+     }
+      /* /contact responsive */
+ 
+      /* links responsive */
+      .links  p{
+          width: 250px;
+          font-size: 13px;
+      }
+      .links .row2 input{
+          width:170px;
+      }
+      .links .list ul li{
+          list-style: none;
+      }
+      /* /links responsive */
+ }
+@media (max-width:768px){
+    /* header responsive */
+
+     header .header-info h1{
+         color: white;
+         font-size:34px;
+     }
+     header .header-info p{
+         width: 85%;
+         color: rgb(177, 177, 177);
+         font-size:16px;
+     }
+     header .header-info a.btn{
+         padding: 7px 16px;
+         font-size: 20px;
+     }
+     header .header-form{
+         padding: 25px;
+
+     }
+    /* /header responsive */
+ 
+    /* courses responsive */
+     #Courses h1{
+         width:95%;
+         font-size:55px;
+     }
+     #Courses .courses-holder .row .carousel-info{
+        width:90%;
+     }
+     /* courses responsive */
+ 
+     /* Programs responsive */
+     #Programs .programs-info h1{
+         font-weight: bold;
+         font-size:55px;
+         width: 95%;
+     }
+     #Programs .programs-info p{
+         font-size:25px;
+         width:94%;
+         color: rgb(172, 172, 172);
+     }
+     #Programs .row .img-holder img{
+         margin-right:5px;
+         width: 95%;
+     }
+     #Programs .img-info{
+        width: 95%;
+     }
+     #Programs .img-info h2{
+        width: 90%;
+        font-size:45px;
+     }
+     #Programs .img-info  p{
+         font-size:25px;
+         width:81%;
+         color: rgb(138, 138, 138);
+         margin:22px 0;
+     }
+     #Programs .img-info span{
+         display: inline-block;
+         margin: 8px 0;
+         color: var(--maincolor);
+         font-size: 23px;
+         width:81%;
+     }
+     #Programs .img-info span i{
+         background-color: var(--maincolor);
+         width: 45px;
+         height:45px;
+         border-radius:50%;
+         text-align: center;
+         color: white;
+         line-height: 45px;
+         margin-right: 5px;
+         font-size: 20px;
+     }
+     #Programs .img-info.mm{
+         margin-right:160px;
+     }
+      /* /Programs responsive */
+ 
+      /* Teachers responsive */
+      #Teachers .techers-word{
+         margin-bottom: 15px;
+         width:95%;
+     }
+     #Teachers .techers-word h1{
+        font-size:55px;
+     }
+     #Teachers .techers-word p{
+         font-size:20px;
+         width:95%;
+     }
+     #Teachers .tech-info{
+        width:95%;
+     }
+     #Teachers .teacher-img img{
+        width:180px;
+        height:180px;
+        border-radius: 50%;
+        margin-bottom:-120px;   
+    }
+     #Teachers .teacher-info h3{
+        font-size:35px;
+     }
+     #Teachers .teacher-info h6{
+        font-size:25px;
+     }
+     #Teachers .teacher-info p{
+        font-size:80px;
+     }
+      /* /Teachers responsive */
+ 
+      /* recommend responsive */
+      #recommend .feedback{
+          width: 95%;
+      }
+      #recommend  .feedback p{
+         font-size: 19px;
+         width: 95%;
+         margin-left: 14px;
+     }
+      /* /recommend responsive */
+ 
+      /* details responsive */
+      #details .container h1{
+         font-weight: bold;
+         font-size:55px;
+         width: 95%;
+         margin-bottom: 70px;
+     } 
+      #details img.bob{
+         width:40%;
+         top:1150px;
+         left:-40px;
+         position: absolute;
+         z-index: -1;
+     }
+     #details .container .detail{
+         padding: 0;
+     }
+     
+     #details .container .detail .row2{
+         width:350px;
+     }
+     #details .container .detail .row2 .icon1 p{
+         font-size:17px;
+     }
+      /* /details responsive */
+ 
+      /* contact responsive */
+      #contact p{
+         font-size: 20px;
+         width: 95%;
+     }
+     #contact form{
+         display: flex;
+         flex-direction: column;
+         width:100%;
+     }
+      /* /contact responsive */
+ 
+      /* links responsive */
+      .links  p{
+        width: 90%;
+          font-size:11px;
+      }
+      .links .row2 input{
+          width:100px;
+      }
+      .links .list ul li{
+          list-style: none;
+      }
+      /* /links responsive */
+ }
+@media (max-width:1024px){
+    /* header responsive */
+
+     header .header-info h1{
+         color: white;
+         font-size:37px;
+     }
+     header .header-info p{
+         width: 90%;
+         color: rgb(177, 177, 177);
+         font-size:22px;
+     }
+     header .header-info a.btn{
+         padding: 7px 16px;
+         font-size: 20px;
+     }
+     header .header-form{
+         padding:20px 30px;
+     }
+     header .header-form h3{
+       font-size: 30px;
+    }
+    header .header-form input{
+        font-size: 20px;
+    }
+    /* /header responsive */
+ 
+    /* courses responsive */
+     #Courses h1{
+         width:95%;
+         font-size:55px;
+     }
+     #Courses .courses-holder .row .carousel-info{
+        width:90%;
+     }
+     /* courses responsive */
+ 
+     /* Programs responsive */
+     #Programs .programs-info h1{
+         font-weight: bold;
+         font-size:55px;
+         width: 95%;
+     }
+     #Programs .programs-info p{
+         font-size:25px;
+         width:94%;
+         color: rgb(172, 172, 172);
+     }
+     #Programs .row .img-holder{
+         width: 95%;
+     }
+     #Programs .row .img-holder img{
+         margin-right:5px;
+         margin-bottom: 50px;
+         width: 100%;
+     }
+     #Programs .img-info{
+        width: 95%;
+     }
+     #Programs .img-info h2{
+        width: 90%;
+        font-size:45px;
+     }
+     #Programs .img-info  p{
+         font-size:25px;
+         width:81%;
+         color: rgb(138, 138, 138);
+         margin:22px 0;
+     }
+     #Programs .img-info span{
+         display: inline-block;
+         margin: 8px 0;
+         color: var(--maincolor);
+         font-size: 23px;
+         width:81%;
+     }
+     #Programs .img-info span i{
+         background-color: var(--maincolor);
+         width: 45px;
+         height:45px;
+         border-radius:50%;
+         text-align: center;
+         color: white;
+         line-height: 45px;
+         margin-right: 5px;
+         font-size: 20px;
+     }
+     #Programs .img-info.mm{
+        margin-right: -85px;
+        margin-bottom: 50px;
+     }
+      /* /Programs responsive */
+ 
+      /* Teachers responsive */
+      #Teachers .techers-word{
+         margin-bottom: 15px;
+         width:95%;
+     }
+     #Teachers .techers-word h1{
+        font-size:75px;
+     }
+     #Teachers .techers-word p{
+         font-size:25px;
+         width:100%;
+     }
+     #Teachers .tech-info{
+        width:95%;
+     }
+     #Teachers .teacher-img img{
+        width:225px;
+        height:225px;
+        border-radius: 50%;
+        margin-bottom:-120px;   
+    }
+     #Teachers .teacher-info h3{
+        font-size:42px;
+     }
+     #Teachers .teacher-info h6{
+        font-size:33px;
+     }
+     #Teachers .teacher-info p{
+        font-size:29px;
+        line-height:46px;
+     }
+      /* /Teachers responsive */
+ 
+      /* recommend responsive */
+      #recommend .feedback{
+          width:100%;
+      }
+      #recommend .feedback  h4{
+        font-size:35px;
+      }
+      #recommend  .feedback p{
+         font-size:25px;
+         width: 95%;
+         margin-left: 14px;
+     }
+      /* /recommend responsive */
+ 
+      /* details responsive */
+      #details .container h1{
+         font-weight: bold;
+         font-size:55px;
+         width: 95%;
+         margin-bottom: 70px;
+     } 
+      #details img.bob{
+         width:40%;
+         top:700px;
+         left:-40px;
+         position: absolute;
+         z-index: -1;
+     }
+     #details .container .detail{
+         padding: 0;
+     }
+     
+     #details .container .detail .row2{
+         width:350px;
+     }
+     #details .container .detail .row2 .icon1 p{
+         font-size:17px;
+     }
+      /* /details responsive */
+ 
+      /* contact responsive */
+      #contact{
+          width: 100%;
+      }
+      #contact h1{
+        font-size: 45px;
+        margin-bottom: 15px;
+      }
+      #contact p{
+         font-size: 20px;
+         width: 100%;
+         margin-bottom: 15px;
+     }
+     #contact form{
+         display: flex;
+         flex-direction: column;
+     }
+     #contact form  input{
+        font-size:18px;
+     }
+     #contact form button{
+        background-color: var(--maincolor);
+        border-radius:30px;
+        color: white;
+        padding:8px 0;
+        border: none;
+        font-size: 20px;
+        text-transform: capitalize;
+    }
+      /* /contact responsive */
+ 
+      /* links responsive */
+      .links  p{
+        width: 90%;
+        font-size:11px;
+      }
+      .links .row2 input{
+          width:200px;
+      }
+      .links .row2 button{
+        background-color: var(--maincolor);
+        color: white;
+        text-transform: capitalize;
+        padding:12px 10px;
+        border: none;
+        font-size: 14px;
+    }
+      .links .list ul li{
+          list-style: none;
+      }
+      /* /links responsive */
+}
+@media (max-width:540px){
+    /* header responsive */
+
+     header{
+         width: 100%;
+     }
+     header .header-info h1{
+         color: white;
+         font-size:37px;
+     }
+     header .header-info p{
+         width: 90%;
+         color: rgb(177, 177, 177);
+         font-size:22px;
+     }
+     header .header-info a.btn{
+         padding: 7px 16px;
+         font-size: 20px;
+     }
+     header .header-form{
+         padding:20px 30px;
+     }
+     header .header-form h3{
+       font-size: 30px;
+    }
+    header .header-form input{
+        font-size: 20px;
+    }
+    /* /header responsive */
+ 
+    /* courses responsive */
+     #Courses h1{
+         width:95%;
+         font-size:55px;
+     }
+     #Courses .courses-holder .row .carousel-info{
+        width:90%;
+     }
+     /* courses responsive */
+ 
+     /* Programs responsive */
+     #Programs .programs-info h1{
+         font-weight: bold;
+         font-size:55px;
+         width: 95%;
+     }
+     #Programs .programs-info p{
+         font-size:25px;
+         width:94%;
+         color: rgb(172, 172, 172);
+     }
+     #Programs .row .img-holder{
+         width: 95%;
+     }
+     #Programs .row .img-holder img{
+         margin-right:5px;
+         margin-bottom: 50px;
+         width: 100%;
+     }
+     #Programs .img-info{
+        width: 95%;
+     }
+     #Programs .img-info h2{
+        width: 90%;
+        font-size:45px;
+     }
+     #Programs .img-info  p{
+         font-size:25px;
+         width:81%;
+         color: rgb(138, 138, 138);
+         margin:22px 0;
+     }
+     #Programs .img-info span{
+         display: inline-block;
+         margin: 8px 0;
+         color: var(--maincolor);
+         font-size: 23px;
+         width:81%;
+     }
+     #Programs .img-info span i{
+         background-color: var(--maincolor);
+         width: 45px;
+         height:45px;
+         border-radius:50%;
+         text-align: center;
+         color: white;
+         line-height: 45px;
+         margin-right: 5px;
+         font-size: 20px;
+     }
+     #Programs .img-info.mm{
+        margin-right: -85px;
+        margin-bottom: 50px;
+     }
+      /* /Programs responsive */
+ 
+      /* Teachers responsive */
+      #Teachers .techers-word{
+         margin-bottom: 15px;
+         width:95%;
+     }
+     #Teachers .techers-word h1{
+        font-size:75px;
+     }
+     #Teachers .techers-word p{
+         font-size:25px;
+         width:100%;
+     }
+     #Teachers .tech-info{
+        width:95%;
+     }
+     #Teachers .teacher-img img{
+        width:225px;
+        height:225px;
+        border-radius: 50%;
+        margin-bottom:-120px;   
+    }
+     #Teachers .teacher-info h3{
+        font-size:42px;
+     }
+     #Teachers .teacher-info h6{
+        font-size:33px;
+     }
+     #Teachers .teacher-info p{
+        font-size:29px;
+        line-height:46px;
+     }
+      /* /Teachers responsive */
+ 
+      /* recommend responsive */
+      #recommend .feedback{
+          width:100%;
+      }
+      #recommend .feedback  h4{
+        font-size:35px;
+      }
+      #recommend  .feedback p{
+         font-size:25px;
+         width: 95%;
+         margin-left: 14px;
+     }
+      /* /recommend responsive */
+ 
+      /* details responsive */
+      #details .container h1{
+         font-weight: bold;
+         font-size:55px;
+         width: 95%;
+         margin-bottom: 70px;
+     } 
+      #details img.bob{
+         width:40%;
+         top:700px;
+         left:-40px;
+         position: absolute;
+         z-index: -1;
+     }
+     #details .container .detail{
+         padding: 0;
+     }
+     
+     #details .container .detail .row2{
+         width:350px;
+     }
+     #details .container .detail .row2 .icon1 p{
+         font-size:17px;
+     }
+      /* /details responsive */
+ 
+      /* contact responsive */
+      #contact{
+          width: 100%;
+      }
+      #contact h1{
+        font-size: 45px;
+        margin-bottom: 15px;
+      }
+      #contact p{
+         font-size: 20px;
+         width: 100%;
+         margin-bottom: 15px;
+     }
+     #contact form{
+         display: flex;
+         flex-direction: column;
+     }
+     #contact form  input{
+        font-size:18px;
+     }
+     #contact form button{
+        background-color: var(--maincolor);
+        border-radius:30px;
+        color: white;
+        padding:8px 0;
+        border: none;
+        font-size: 20px;
+        text-transform: capitalize;
+    }
+      /* /contact responsive */
+ 
+      /* links responsive */
+      .links  p{
+        width: 90%;
+        font-size:11px;
+      }
+      .links .row2 input{
+          width:200px;
+      }
+      .links .row2 button{
+        background-color: var(--maincolor);
+        color: white;
+        text-transform: capitalize;
+        padding:12px 10px;
+        border: none;
+        font-size: 14px;
+    }
+      .links .list ul li{
+          list-style: none;
+      }
+      /* /links responsive */
+}
+@media (max-width:991px){
+    .navbar li.active div{
+    content: "";
+    position: absolute;
+    background-color:white;
+    width:10%;
+    height:2px;
+    bottom: -4px;
+    left:10px;
+}
+#Programs .row .img-holder{
+    width: 100%;
+    margin-bottom:50px;
+}
+#Programs .row .img-info{
+    width: 100%;
+}
+#Programs .row .img-info.middle{
+    width: 100%;
+    margin-left: 160px;
+    margin-bottom: 50px;
+}
+#Teachers .teacher-info p {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 10px;
+    color: rgb(139, 139, 139);
+    line-height: 35px;
+}
+#details .container .row2{
+    width:170%;
+}
+#details .container .boy-img{
+    width:100%;
+}
+#details .container .row2 .icon1 span{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: var(--maincolor);
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    margin-right:13px;
+}
+#details .container .row2 .icon1 p{
+    /* margin: 3px 0; */
+    font-size:11px;
+}
+#contact .names{
+     display: flex;
+     flex-direction: column;
+ }
+ #contact .names .first-name{
+     margin-bottom: 22px;
+ }
+ .links .row button{
+    background-color: var(--maincolor);
+    color: white;
+    text-transform: capitalize;
+    padding:10 8px;
+    border: none;
+    font-size:11px;
+    font-weight: bold;
+    
+}
+}

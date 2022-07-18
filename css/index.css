@@ -1,0 +1,66 @@
+/*Global styling*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+}
+:root {
+  --maincolor: #7971ea;
+}
+section {
+  padding: 60px 0;
+}
+
+/*/Global styling*/
+
+/*header styling*/
+header {
+  background-image: url(../images/hero_1.jpg);
+  background-size: cover;
+  height: 500px;
+  position: relative;
+}
+header .data {
+  color: white;
+  position: absolute;
+  bottom: 50px;
+  right: 30px;
+}
+header .data p {
+  font-size: 15px;
+}
+header .data h2 {
+  font-weight: bold;
+}
+/* care center */
+.care {
+  background-color: white;
+  padding: 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+}
+.address span {
+  display: inline-block;
+  width: 40px;
+}
+.care button {
+  border: 1px solid green;
+  background-color: white;
+  padding: 7px 10px;
+  font-size: 15px;
+  border-radius: 20px;
+  color: green;
+}
+
+/* contact */
+.contact input,
+.contact textarea {
+  width: 100%;
+  margin-bottom: 10px;
+  border: none;
+  border-bottom: 1px solid gray;
+  padding-bottom: 15px;
+}
